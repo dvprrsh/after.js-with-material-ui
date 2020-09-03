@@ -1,4 +1,4 @@
-# Razzle x After.js x Material-UI
+# Razzle x After.js x Material-UI w/ Server Stylesheets
 
 ## How to use
 
