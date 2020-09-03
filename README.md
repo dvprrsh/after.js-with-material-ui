@@ -1,21 +1,14 @@
-# Razzle x After.js
+# Razzle x After.js x Material-UI
 
 ## How to use
-
-Download the example [or clone the whole project](https://github.com/jaredpalmer/after.js.git):
-
-```bash
-curl https://codeload.github.com/jaredpalmer/after.js/tar.gz/master | tar -xz --strip=2 razzle-master/examples/basic
-cd basic
-```
 
 Install it and run:
 
 ```bash
-yarn install
-yarn start
+npm install
+npm start
 ```
 
 ## Idea behind the example
 
-This is a basic, bare-bones example of how to use After.js and Razzle.
+I created this for SSR Material-UI theme following guidance from both this MUI Next.js [https://github.com/mui-org/material-ui/blob/master/examples/nextjs/pages/_document.js](example) and this after.js [https://github.com/jaredpalmer/after.js#custom-document](guide) for adding server stylesheets.
